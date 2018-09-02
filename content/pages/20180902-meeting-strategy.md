@@ -151,4 +151,45 @@ Jede Rolle kann im Projekt-Team angesiedelt werden. Alle nehmen kollaborativ an 
 
 Was können wir für den WDR tun? Wie kriegen wir mehr Sichtbarkeit intern und extern?
 
-Digitalforum, Unkonferenz, Radiopost, Intranet, strategische Treffen mit Entscheidern
+Neben der Produktentwicklung ist es unser Ziel, dem WDR bei der internen Innovation zu helfen. Es ist unklar, wie groß die Akzeptanz von solch einem Angebot innerhalb des WDR ist.
+
+
+### Platformen um die Bekanntheit zu steigern
+
+Wir können diese Platformen nutzen, um unsere Ideen im WDR bekannt zu machen:
+
+
+
+*   Digitalforum
+*   Unkonferenz
+*   Radiopost
+*   Intranet
+*   strategische Treffen mit Entscheidern
+
+
+### Unsere Ziele im Bezug auf den WDR
+
+
+
+*   Bessere digitale Angebote
+*   Leichtere Arbeitsweisen
+*   Transparenz schaffen
+*   Weniger Bürokratie
+*   Hürden für Macher abbauen
+
+
+### Angebote an den WDR
+
+
+
+*   Beratung in Bezug auf
+    *   Innovation
+    *   Agile Arbeitsweise
+*   Workshops mit anderen Teams
+
+
+### Verbündete
+
+Über Verbündete Innovative im WDR können wir versuchen, Fehler bei der Implementierung von Innovationskonzepten im WDR zu verhindern.
+
+Beim Fernsehen: Thomas Hallet
