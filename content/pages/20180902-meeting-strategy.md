@@ -7,6 +7,12 @@ _Wir planen die Entwicklung unseres Innovationslabors_
 
 Folgende Themenkomplexe wurden bei der Vorbereitung des Termins als relevant herausgearbeitet und sollen gezielt besprochen werden.
 
+### Agenda
+
+- [Werte und Vorgehensweisen](#werte-und-vorgehensweisen)
+- [Charakteristik von Projekten, die zu uns passen](#charakteristik-von-projekten-die-zu-uns-passen)
+- [Der WDR und das Standing des HackingStudio](#der-wdr-und-das-standing-des-hackingstudio)
+
 
 ## Werte und Vorgehensweisen
 
