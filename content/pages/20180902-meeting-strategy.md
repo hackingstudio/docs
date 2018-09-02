@@ -144,7 +144,7 @@ Projekt-Anforderungen besitzen eine niedrige Komplexität und eine klare Zielset
 
 ### Interdisziplinär
 
-Jede Rolle kann im Projekt-Team angesiedelt werden. Alle nehmen kollaborativ an der Entwicklung des Projektes teil. Für alle Rollen ist die Verantwortung im Team verankert (siehe [Rollen im Wertebild](#heading=h.auw7s7ce2rk1)).
+Jede Rolle kann im Projekt-Team angesiedelt werden. Alle nehmen kollaborativ an der Entwicklung des Projektes teil. Für alle Rollen ist die Verantwortung im Team verankert (siehe [Rollen im Wertebild](#team-gemeinsam-zum-erfolg)).
 
 
 ## Der WDR und das Standing des HackingStudio
