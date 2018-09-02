@@ -1,0 +1,25 @@
+languageCode = "de"
+title = "Hacking Studio Docs"
+theme = "cocoa"
+
+[permalinks]
+pages  = ":slug/"
+
+[params]
+extracssfiles          = [ "/css/override.css" ]       # In your `static` directory, add/remove files as necessary.
+include_rss            = true                          # include RSS <link> tag in <head> and show RSS icon
+latestpostscount       = 5                             # how many posts to display on the home page
+author                 = "Hacking Studio Docs"
+dateform               = "02.01.2006"
+dateformfull           = "Mon Jan 2 2006 15:04:05 MST"
+#description            = "Don't panic"
+faviconfile            = "img/logo.png"
+avatar                 = "img/logo.png" # path to image in static dir e.g img/avatar.png (do not use in the same time as gravatar)
+lang                   = "de"
+selfintro              = ""                            # appears in the site header when set to a non-empty string
+github                 = "https://github.com/hackingstudio/docs"
+twitter                = "https://twitter.com/StudioHacking"
+
+highlightjs            = true
+# highlightjslanguages = ["go"]                        # additional languages not included in the "common" set
+# highlightjsStyle     = "darcula"
