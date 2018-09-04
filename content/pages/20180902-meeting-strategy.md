@@ -196,6 +196,23 @@ Wir können diese Platformen nutzen, um unsere Ideen im WDR bekannt zu machen:
 
 ### Verbündete
 
-Über Verbündete Innovative im WDR können wir versuchen, Fehler bei der Implementierung von Innovationskonzepten im WDR zu verhindern.
+Wir können versuchen, uns mit anderen Innovativen im WDR zu verbünden, um Fehler bei der Implementierung von Innovationskonzepten im WDR zu verhindern.
 
-Beim Fernsehen: Thomas Hallet
+Zentrale Aufgaben:
+* Martin Oels (Onlinebeauftragter)
+* Elmar Pott (Leiter HA Zentrale Aufgaben)
+
+Strategie HF:
+* Jürgen Kraus
+
+Produktentwicklung:
+* Schiwa Schlei 
+
+PBI: 
+* Peter Schneider (Frei, ddj)
+* Jule Lüke (Digitaler Wandel), Lisa Zauner (neu im Digitalen Wandel) > Überhaupt beim Digitalen Wandel vorstellen 
+* Thomas Hallet (WDR Innovation Lab)
+* Stefan Moll (Leiter PBI)
+
+Fernsehdirektion: 
+* Cornelius Metzger
