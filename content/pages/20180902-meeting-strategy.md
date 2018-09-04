@@ -212,7 +212,7 @@ Strategie HF:
 Produktentwicklung:
 
 
-* Schiwa Schlei *
+* Schiwa Schlei
 
 PBI: 
 
