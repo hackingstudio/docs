@@ -199,14 +199,18 @@ Wir können diese Platformen nutzen, um unsere Ideen im WDR bekannt zu machen:
 Wir können versuchen, uns mit anderen Innovativen im WDR zu verbünden, um Fehler bei der Implementierung von Innovationskonzepten im WDR zu verhindern.
 
 Zentrale Aufgaben:
-* Martin Oels (Onlinebeauftragter)
+
+
+* Martin Oels (Onlinebeauftragter) 
 * Elmar Pott (Leiter HA Zentrale Aufgaben)
 
 Strategie HF:
+
+
 * Jürgen Kraus
 
 Produktentwicklung:
-* Schiwa Schlei 
+* Schiwa Schlei *
 
 PBI: 
 * Peter Schneider (Frei, ddj)
