@@ -196,7 +196,7 @@ Wir können diese Platformen nutzen, um unsere Ideen im WDR bekannt zu machen:
 
 ### Verbündete
 
-Wir können versuchen, uns mit anderen Innovativen im WDR zu verbünden, um Fehler bei der Implementierung von Innovationskonzepten im WDR zu verhindern.
+Wir können versuchen uns mit anderen Innovativen im WDR zu verbünden, um Fehler bei der Implementierung von Innovationskonzepten im WDR zu verhindern.
 
 Zentrale Aufgaben:
 
@@ -210,13 +210,19 @@ Strategie HF:
 * Jürgen Kraus
 
 Produktentwicklung:
+
+
 * Schiwa Schlei *
 
 PBI: 
+
+
 * Peter Schneider (Frei, ddj)
 * Jule Lüke (Digitaler Wandel), Lisa Zauner (neu im Digitalen Wandel) > Überhaupt beim Digitalen Wandel vorstellen 
 * Thomas Hallet (WDR Innovation Lab)
 * Stefan Moll (Leiter PBI)
 
 Fernsehdirektion: 
+
+
 * Cornelius Metzger
